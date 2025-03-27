@@ -20,7 +20,7 @@ This project provides a multithreaded proxy checker tool in Python. It loads pro
 Install all dependencies:
 ```bash
 pip install requests undetected-chromedriver selenium
-
+```
 ## Bot Visit Script
 
 The `bot_visit.py` script is a web automation bot that visits target URLs using proxies and user agents. It supports JavaScript toggling, proxy rotation, and multithreaded execution.
