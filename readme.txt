@@ -1,5 +1,5 @@
 # Install dependency
-ip install requests
+pip install requests
 pip install undetected-chromedriver selenium
 
 # Check proxy from proxies.txt
